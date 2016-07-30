@@ -1,4 +1,4 @@
-package com.adi.domain;
+package com.lendinggrid.capabilities.domain;
 
 import java.util.Set;
 

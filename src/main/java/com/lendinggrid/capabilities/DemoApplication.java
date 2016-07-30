@@ -1,4 +1,4 @@
-package com.adi;
+package com.lendinggrid.capabilities;
 
 import java.util.HashSet;
 import java.util.Set;
@@ -9,9 +9,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import com.adi.dao.TeamDao;
-import com.adi.domain.Player;
-import com.adi.domain.Team;
+import com.lendinggrid.capabilities.dao.TeamDao;
+import com.lendinggrid.capabilities.domain.Player;
+import com.lendinggrid.capabilities.domain.Team;
 
 @SpringBootApplication
 public class DemoApplication {

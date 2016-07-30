@@ -1,4 +1,4 @@
-package com.adi.domain;
+package com.lendinggrid.capabilities.domain;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

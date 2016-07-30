@@ -1,4 +1,4 @@
-package com.adi;
+package com.lendinggrid.capabilities;
 
 import java.util.List;
 import java.util.Map;
@@ -7,8 +7,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.adi.dao.TeamDao;
-import com.adi.domain.Team;
+import com.lendinggrid.capabilities.dao.TeamDao;
+import com.lendinggrid.capabilities.domain.Team;
 
 @RestController
 public class DemoController {
